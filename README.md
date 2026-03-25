@@ -1,80 +1,126 @@
-<h1 align="center">Olá 👋, me chamo Aécio Guterres</h1>
-<h3 align="center">Sou desenvolvedor back-end e designer situado em São Luís do Maranhão</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Java e seus frameworks**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=header&text=Aécio+Guterres&fontSize=36&fontColor=58a6ff&fontAlignY=65&animation=fadeIn)
 
-- 📫 Pode me enviar um email **aecioguterres.dev@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
 
-<h3 align="left">Linguagens:</h3>
-<p align="left"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Java+%26+Spring+Boot+Developer+%E2%98%95;Back-end+%26+API+Builder+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-<p>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+**Back-end Developer & Designer** — São Luís, Maranhão 🇧🇷
+**Graduando em Sistemas de Informação** @ UNESA
 
-<h3 align="left">Frontend Development</h3>
-<p align="left"> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aecioguterres)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aecioguterres.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aeciog)
+![Profile Views](https://komarev.com/ghpvc/?username=aeciog&color=58a6ff&style=flat-square&label=Visitas)
 
-<p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></p>
+</div>
+
+---
+
+```java
+public class AecioGuterres {
+
+    String nome        = "Aécio Guterres";
+    String localizacao = "São Luís, Maranhão 🇧🇷";
+    String formacao    = "Sistemas de Informação · UNESA";
+    String foco        = "Back-end Development";
+
+    String[] aprendendo = { "Java", "Spring Boot", "Spring Security", "JPA/Hibernate" };
+    String[] domina     = { "Python", "JavaScript", "HTML5", "CSS3", "Angular" };
+    String   contato    = "aecioguterres.dev@gmail.com";
+
+    String missao() {
+        return "Transformar problemas reais em soluções elegantes 💡";
+    }
+}
+```
+
+---
+
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Back-end**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+**Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
 
 
-<h3 align="left">Backend Development</h3>
-<p align="left"> 
+<div align="center">
 
-<p><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=aeciog&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeciog&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
-<h3 align="left">Database</h3>
-<p align="left"> 
+</div>
 
-<p>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<div align="center">
 
+<!-- ✅ Corrigido: herokuapp estava fora do ar → usando demolab -->
+<img src="https://streak-stats.demolab.com/?user=aeciog&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a2a4a&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" />
 
-</p>
+</div>
 
-
-<h3 align="left">Devops</h3>
-<p align="left"> 
+---
 
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<div align="center">
 
-</p>
+<!-- ✅ Corrigido: tema "darkhub" não existia → usando "gitdimmed" -->
+<img src="https://github-profile-trophy.vercel.app/?username=aeciog&theme=gitdimmed&no-frame=true&column=6&margin-w=4" />
+
+</div>
+
+---
 
 
-<h3 align="left">Backend as a Service(BaaS)</h3>
-<p align="left"> 
+<div align="center">
 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  
-<h3 align="left">Software</h3>
-<p align="left"> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
+<!-- ✅ Corrigido: tema "github-compact" não existia → usando "github-dark" -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aeciog&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1a2a4a&point=58a6ff" />
 
-<h3 align="left">Outros</h3>
-<p align="left"> 
+</div>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+---
 
- 
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeciog&show_icons=true&locale=en&layout=compact" alt="aeciog" /></p>
+> *"Qualquer tolo pode escrever código que o computador entende.*
+> *Bons programadores escrevem código que humanos entendem."*
+> — **Martin Fowler**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeciog&show_icons=true&locale=en" alt="aeciog" /></p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=80&section=footer)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aeciog&" alt="aeciog" /></p>
-
+</div>
